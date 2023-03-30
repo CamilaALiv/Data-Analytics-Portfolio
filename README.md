@@ -1,7 +1,5 @@
-# Data Analytics Portfolio
+# Stock Market Data Analysis
 
-Welcome to my Data Analytics Portfolio!
-
-I'm an entry-level data analyst who is currently studying and gaining experience using various tools and technologies to collect, organize, and analyze data in order to inform business decisions. Currently, my focus of study includes Python, SQL, Excel, and Power BI.
-
-In this portfolio, I will showcase projects that I am building during my studies to demonstrate my skills and progress in Data Analytics and related topics.
+This dashboard was created with real data from the stock market of IBM, Microsoft, Oracle, Tesla and Walmart, between March 2022 and March 2023.
+The data used was extracted from the Nasdaq portal and is publicly available on the website:
+https://www.nasdaq.com
