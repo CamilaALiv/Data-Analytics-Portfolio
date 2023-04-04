@@ -21,7 +21,7 @@ The first step was to extract the data from the selected companies directly from
 
 For a better visualization of the trading volume of stocks over the period of one year, we use the ‘Area Chart’. This chart is often used to find trends in data over time and allows you to view a timeline, with padding below the lines to show the magnitude of trends. When we hover the mouse over the chart line, we see the values traded each day. So that this analysis could be done for each company, for a combination of companies or for all companies, 'Slicer' per company was added.
 
-Chart 1 + slicer
+![Chart1](https://user-images.githubusercontent.com/123582788/229661161-cb7b865e-7af5-4ba2-866a-4ed858fbe1c2.png)
 
 2 - What is the average opening (Open), highest (High), lowest (Low) and closing (Close) value of shares of all companies for all months of the analyzed data period?
 
