@@ -54,6 +54,8 @@ Below the final result of the dashboard:
 ![dashboard_stock_market](https://user-images.githubusercontent.com/123582788/229662942-11390716-3564-4c24-a460-321b4df98957.png)
 
 
+### Link to Power BI file:
+https://github.com/CamilaALiv/Stock-Market-Data-Analysis/blob/8e1c10b64afd002f65ec9201a0e9d32edf1beee0/dashboard_stock_market.pbix
 
 # Bibliographic References:
 
